@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **Advanced System Design**
 - 👯 I’m looking to collaborate on **Open Source Software**
 - 💬 Ask me about **Web Development & Design**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **mvdilrag@gmail.com**
 
 ---
 
