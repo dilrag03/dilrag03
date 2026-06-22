@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm a Developer 👋
+Typing SVG
+Welcome to my GitHub profile! I love building aesthetic, high-performance applications and solving complex problems with code.
 
-<!--
-**dilrag03/dilrag03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🔭 I’m currently working on Awesome Projects
+🌱 I’m currently learning Advanced System Design
+👯 I’m looking to collaborate on Open Source Software
+💬 Ask me about Web Development & Design
+📫 How to reach me: 
+your.email@example.com
+💻 Tech Stack
+JavaScriptTypeScriptReactNext.jsPythonNode.jsMongoDBGit
+📊 GitHub Stats
+GitHub Stats
+GitHub Streak
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
